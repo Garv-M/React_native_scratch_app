@@ -27,10 +27,10 @@ There will be a QR code available on the terminal. Open the Expo Go App on the p
 The App will start running. 
 
 ## Images
-![App1.png](App1.png)
-![App2.png](App2.png)
-![App3.png](App3.png)
-![App4.png](App4.png)
+<img src="https://github.com/user-attachments/assets/2ed120d6-2c85-4641-a68c-83f1898daaae" alt="App1" height="600"/>
+<img src="https://github.com/user-attachments/assets/3650e1a1-c487-4615-87eb-2fdc1be958eb" alt="App1" height="600"/>
+<img src="https://github.com/user-attachments/assets/0e6e55e6-2ae9-46d3-a0b9-9ea510990416" alt="App1" height="600"/>
+<img src="https://github.com/user-attachments/assets/5a091110-93c7-477f-8fac-4ac00b7461a9" alt="App1" height="600"/>
 
 ## Demo Link
 [Video Link](https://youtu.be/dPX9prKt0X4?si=hbFDW4u9DIs9EPRY)
