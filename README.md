@@ -1,5 +1,4 @@
 # React Native Scratch App
-## React Native Juspay Task
 
 It is a React Native app of Scratch. In order to run this app, one must have an Android Device. 
 
